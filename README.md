@@ -1,4 +1,4 @@
-# The React Quiz
+# WorldWise
 
 ## About the app
 
